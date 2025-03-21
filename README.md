@@ -99,9 +99,3 @@ Clone it from: [https://github.com/Lalatenduswain/pbs_setup](https://github.com/
 
 Happy automating! 🎉
 ```
-
-### Notes:
-1. **Script Name**: I used `pbs_setup.sh` as the script name from our previous conversation, and the repository name is `pbs_setup` to match GitHub conventions (no `.sh` in repo names).
-2. **Sensitive Info**: No passwords, usernames, or sensitive paths are included. Everything uses generic examples.
-3. **Structure**: Includes all requested sections with emojis, prerequisites, and detailed instructions.
-4. **GitHub URL**: Updated to `https://github.com/Lalatenduswain/pbs_setup` based on your username and the script's purpose.
